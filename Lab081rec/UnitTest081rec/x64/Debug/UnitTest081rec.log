@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest081rec.cpp
+C:\Users\vladg\source\repos\08\Lab081rec\UnitTest081rec\UnitTest081rec.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest081rec.cpp')
+      C:\Users\vladg\source\repos\08\Lab081rec\UnitTest081rec\UnitTest081rec.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\vladg\source\repos\08\Lab081rec\UnitTest081rec\UnitTest081rec.cpp(2,1):
+      use of precompiled header
+  
+     Creating library C:\Users\vladg\source\repos\08\Lab081rec\x64\Debug\UnitTest081rec.lib and object C:\Users\vladg\source\repos\08\Lab081rec\x64\Debug\UnitTest081rec.exp
+  UnitTest081rec.vcxproj -> C:\Users\vladg\source\repos\08\Lab081rec\x64\Debug\UnitTest081rec.dll
